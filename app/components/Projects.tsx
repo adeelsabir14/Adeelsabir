@@ -5,16 +5,16 @@ import { motion } from "framer-motion"
 
 const projects = [
   {
-    title: "E-commerce Platform",
+    title: "Dydo Drinco Turkey",
     description:
       "A full-stack e-commerce solution for electronic products, featuring a modern UI and seamless shopping experience.",
-    image: "/Assets/dydo 2.png",
+    image: "/Assets/dydo.png",
     tags: ["React", "Node.js", "MongoDB", "Express"],
   },
   {
-    title: "Agency Website",
+    title: "Doucment Archive",
     description: "A dark-themed, modern agency website with dynamic animations and creative portfolio showcase.",
-    image: "https://source.unsplash.com/random/800x600?agency",
+    image: "/Assets/document Archive.png",
     tags: ["Next.js", "Framer Motion", "Tailwind CSS"],
   },
   {

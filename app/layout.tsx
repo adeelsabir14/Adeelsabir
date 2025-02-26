@@ -5,10 +5,10 @@ import type React from "react" // Import React
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Nathan Sterling - Web Developer & Designer",
+  title: "Adeel Sabir - Web Developer & Designer",
   description:
-    "Portfolio of Nathan Sterling, a professional web developer and designer specializing in modern, responsive web solutions.",
-    generator: 'v0.dev'
+    "Portfolio of Adeel Sabir, a professional web developer and designer specializing in modern, responsive web solutions.",
+    
 }
 
 export default function RootLayout({

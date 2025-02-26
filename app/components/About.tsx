@@ -17,7 +17,7 @@ export default function About() {
           </div>
           <div className="md:w-2/3 md:pl-12">
             <p className="mb-4">
-              Hi, I'm Adeel Sabir, a passionate web developer and designer with over 5 years of experience in
+              Hi, I'm Adeel Sabir, a passionate web developer and designer with over 2 years of experience in
               creating beautiful, functional, and user-centered digital experiences.
             </p>
             <p className="mb-4">
